@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 export default function Navigasi(){
     return(
-        <div className="navbar bg-white w-full drop-shadow-lg">
+        <div className="navbar bg-white w-full drop-shadow-lg mt-auto">
   <div className="navbar-start">
     <div className="dropdown">
       <label tabIndex={0} className="btn btn-ghost btn-circle">

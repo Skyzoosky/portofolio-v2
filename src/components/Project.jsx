@@ -62,7 +62,7 @@ export default function Project(){
 
         </div>
 
-        <div>
+        <div className="mt-52">
           <Footer/>
         </div>
         </div>

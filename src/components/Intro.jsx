@@ -32,7 +32,7 @@ export default function Intro(){
         </div>
         
         </div>
-<div>
+<div className=" mt-52">
     <Footer/>
 </div>
        </div>

@@ -19,7 +19,7 @@ export default function About(){
 </div>
 </div>
 </div>
-<div>
+<div className=" mt-52">
     <Footer/>
 </div>
         </div>
